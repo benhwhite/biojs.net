@@ -18,11 +18,15 @@ In the end a user should be able to upload his data file from experiments (or ma
 <div class="row">
 	<div class="col-md-6" align="center">
 		<a href="http://vcf.iobio.io/"><img src="{{ site.baseurl }}gsoc/2015/img/iobio.jpg" alt="Screenshot of IoBio"  width="100%" /></a>
-<a href="http://iobio.io"> IoBio </a>
+		<a href="http://iobio.io"> IoBio </a>
 	</div>
 	<div class="col-md-6" align="center">
-		<img src="{{ site.baseurl }}gsoc/2015/img/zoomdata.jpg"  alt="Screenshot of ZoomData" width="90%" />
-	ZoomData
+		<a href="https://live.zoomdata.com/zoomdata/visualization#54c184c2e4b0ab65bf958dff">
+			<img src="{{ site.baseurl }}gsoc/2015/img/zoomdata.jpg"  alt="Screenshot of ZoomData" width="90%" />
+		</a>
+		<a href="https://live.zoomdata.com/zoomdata/visualization#">
+			ZoomData
+		</a>
 	</div>
 </div>
 <br>
@@ -41,7 +45,7 @@ This project could be structured in five phases.
 5. Save & load user changes to widgets and assembled dashboards
 6. Sharable dashboards: saved dashboards should be shareable with other researchers and be able to used as a template for new data
 
-You can find a prototype [here](dashify).
+You can find a prototype [here][dashify].
 
 [gridster]: http://gridster.net/
 [dashify]: https://dashify.github.io/widgetmanager/
